@@ -15,10 +15,11 @@ This automation generates a blog using AI and automatically creates a draft page
 4. Draft page is created in WordPress
 
 ## Screenshots
-![WordPress Draft](screenshots/flow-overview.png)
+![screenshots](screenshots/flow-overview.png)
 
 ## Business Use Case
 Reduces manual effort in content publishing workflows.
 
 ## Notes
 WordPress authentication tokens are secured.
+
