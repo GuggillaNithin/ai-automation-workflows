@@ -16,9 +16,11 @@ This workflow generates SEO-optimized blog content using an AI agent based on a 
 
 ## Screenshots
 ![SEO Blog Generator](screenshots/flow-overview.png)
+![SEO Blog Generator](screenshots/flow-overview2.png)
 
 ## Business Use Case
 Helps marketers and content teams generate optimized blog drafts faster.
 
 ## Notes
 Prompts are optimized for SEO best practices.
+
