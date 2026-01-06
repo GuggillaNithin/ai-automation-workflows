@@ -18,8 +18,11 @@ This automation uses an AI agent to generate personalized email replies to incom
 ## Screenshots
 ![Workflow Overview](screenshots/flow-overview.png)
 
+![SEO Blog Generator](screenshots/flow-overview2.png)
+
 ## Business Use Case
 Improves lead response time and increases conversion by sending context-aware replies automatically.
 
 ## Notes
 API keys and email credentials are hidden for security.
+
