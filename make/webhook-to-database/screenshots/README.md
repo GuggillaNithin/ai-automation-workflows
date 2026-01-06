@@ -15,11 +15,12 @@ This workflow captures incoming webhook data and stores it in a database.
 4. Data is stored in database
 
 ## Screenshots
-![webhook-to-databse](flow-overview.png)
+![screenshots](flow-overview.png)
 
 ## Business Use Case
 Centralizes data collection from external services.
 
 ## Notes
 Webhook URLs are anonymized.
+
 
