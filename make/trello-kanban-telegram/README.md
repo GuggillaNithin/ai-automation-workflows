@@ -16,9 +16,12 @@ This n8n workflow updates a Trello Kanban board based on Telegram bot commands.
 
 ## Screenshots
 ![Trello Automation](screenshots/flow-overview.png)
+![Trello Automation](screenshots/flow-overview2.png)
+
 
 ## Business Use Case
 Enables quick task updates without opening Trello.
 
 ## Notes
 Bot tokens and API keys are removed.
+
